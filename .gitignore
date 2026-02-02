@@ -1,2 +1,12 @@
 .idea
 .env
+node_modules
+dist
+.DS_Store
+.vscode
+
+.env.*
+!.env.example
+
+/generated/prisma
+src/generated/prisma
